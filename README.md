@@ -30,3 +30,4 @@ lb4 controller # adding empty controller
 
 
 then  `npm start`
+and `curl localhost:3000/getId`
